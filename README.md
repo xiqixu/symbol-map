@@ -4,6 +4,8 @@ A 10-minute walkthrough of how we built a D3.js proportional symbol map of film 
 
 **Live page:** https://xiqixu.github.io/symbol-map/
 
+**Without the code panel:** https://xiqixu.github.io/symbol-map/no-code/ (same scenes, tasks and quiz; the map takes the full right side)
+
 Open a task directly: add `#task-1` or `#task-2` to the address.
 
 Keys: ← → scenes · ↓ ↑ code notes · C code panel · N speaker notes · T timer · F full screen.
